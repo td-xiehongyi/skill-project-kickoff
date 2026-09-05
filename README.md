@@ -95,4 +95,4 @@ Project Kickoff 会先了解项目起点，再通过一次一个关键问题的�
 
 ## 当前状态
 
-本仓库当前用于维护 Project Kickoff 的公开说明。Skill 源文件和安装包的验证记录保存在对应的本地 Skill 目录中；后续发布 Skill 包时，应同时检查入口文件、参考路径、自动发现配置和安装后的实际触发行为。
+本仓库同时维护 Project Kickoff 的公开说明和 Skill 源文件。入口文件为 `SKILL.md`，参考资料位于 `references/`，界面展示信息位于 `agents/openai.yaml`。验证记录保存在 `validation/report.md`，用于维护时核对格式、行为场景和文档交接证据。

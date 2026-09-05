@@ -1,0 +1,6 @@
+interface:
+  display_name: "项目启动 · Project Kickoff"
+  short_description: "通过深入追问确认需求，形成可验收的分阶段计划与项目启动文档"
+  default_prompt: "使用 $project-kickoff，一次一个关键问题，帮我深入确认项目需求并制定分阶段启动方案，先完成文档。"
+
+
